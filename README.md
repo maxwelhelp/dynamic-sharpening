@@ -2,6 +2,10 @@
 
 **Per-token adaptive temperature for Transformer attention.**
 
+* **📖 Article [RU]:** [Theory and Implementation Details](https://synthcore.org/dinamicheskij-sharpening-per-token-adaptivnaya-temperatura-vnimaniya/)
+* **📺 Video Explanation [RU]:**
+[![Dynamic Sharpening](https://img.youtube.com/vi/cKZXDPjzJd0/maxresdefault.jpg)](https://youtu.be/cKZXDPjzJd0)
+
 ## Key Result
 
 | Context | Optimal Sharpness | PPL vs Baseline |
